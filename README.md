@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melendysh
-- 👀 I’m interested in ... Linux abd Scripting
+- 👀 I’m interested in ... Linux, IOT and Scripting
 - 🌱 I’m currently learning ... PERL
 - 💞️ I’m looking to collaborate on ... Open source 
 - 📫 How to reach me ...
